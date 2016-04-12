@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟集註考證
-#+DATE: 2016-04-12 14:00:47.260718
+#+DATE: 2016-04-12 14:00:47.777110
 #+PROPERTY: ID KR1h0030
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0030_WYG_000-1a>¶
 　　欽定四庫全書　　　　　　經部八¶
@@ -42,7 +42,7 @@
 當不移然其旁引曲證不苟異亦不苟同視¶
 胡炳文輩拘墟迴䕶知有註而不知有經者¶
 則相去逺矣書凡一十七卷首有許謙序後¶
-有吕遲刋書䟦猶為舊本朱&KR0156;尊經義考稱¶
+有吕遲刋書䟦猶為舊本朱彝尊經義考稱¶
 一齋書目作二卷註曰未見葢沿襲之誤不¶
 <pb:KR1h0030_WYG_000-3a>¶
 足據也乾隆四十四年十一月恭校上¶
